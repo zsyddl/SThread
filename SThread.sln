@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
@@ -34,3 +35,41 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SThread", "SThread\SThread.vcproj", "{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcproj", "{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Debug|Win32.Build.0 = Debug|Win32
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Debug|x64.ActiveCfg = Debug|x64
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Debug|x64.Build.0 = Debug|x64
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Release|Win32.ActiveCfg = Release|Win32
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Release|Win32.Build.0 = Release|Win32
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Release|x64.ActiveCfg = Release|x64
+		{7F9F1CCB-5796-4735-B37E-CCEBB06CAB9F}.Release|x64.Build.0 = Release|x64
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Debug|Win32.Build.0 = Debug|Win32
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Debug|x64.ActiveCfg = Debug|x64
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Debug|x64.Build.0 = Debug|x64
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Release|Win32.ActiveCfg = Release|Win32
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Release|Win32.Build.0 = Release|Win32
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Release|x64.ActiveCfg = Release|x64
+		{47BA837F-0AE0-4399-9BB8-775BFDABBA1F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> origin/master
